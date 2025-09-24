@@ -3,6 +3,7 @@
 <html lang="pl">
     <meta charset="utf-8">
 </head>
+	<body>
 	<table border=1>
 		<tr>
 			<td>1</td>
@@ -21,3 +22,4 @@
 </html>
 
 	
+
