@@ -2,6 +2,8 @@
 	<head>
 <html lang="pl">
     <meta charset="utf-8">
+</head>
+	<table border=1>
 		<tr>
 			<td>1</td>
 			<td>2</td>
@@ -17,4 +19,5 @@
 
 
 </html>
+
 	
